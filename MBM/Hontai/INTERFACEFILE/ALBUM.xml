@@ -5,15 +5,15 @@
   </entry>
   <entry id="10">
     <source>見たい項目を選択してください{f801}</source>
-    <target>見たい項目を選択してください{f801}</target>
+    <target>请选择想要浏览的项目{f801}</target>
   </entry>
   <entry id="11">
     <source>見たいムービーを選択してください{f801}</source>
-    <target>見たいムービーを選択してください{f801}</target>
+    <target>请选择想要浏览的过场动画{f801}</target>
   </entry>
   <entry id="20">
     <source>見たいムービーを選択してください{f801}</source>
-    <target>見たいムービーを選択してください{f801}</target>
+    <target>请选择想要浏览的过场动画{f801}</target>
   </entry>
   <entry id="21">
     <source>???{f801}</source>
@@ -21,7 +21,7 @@
   </entry>
   <entry id="30">
     <source>L・Rでキャラクターの切り替えができます{f801}</source>
-    <target>L・Rでキャラクターの切り替えができます{f801}</target>
+    <target>按下L・R键可以切换角色。{f801}</target>
   </entry>
   <entry id="50">
     <source>欠番{f801}</source>
@@ -33,15 +33,15 @@
   </entry>
   <entry id="52">
     <source>冒険者の街へ{f801}</source>
-    <target>冒険者の街へ{f801}</target>
+    <target>开场动画{f801}</target>
   </entry>
   <entry id="53">
     <source>すべての始まり{f801}</source>
-    <target>すべての始まり{f801}</target>
+    <target>一切的开始{f801}</target>
   </entry>
   <entry id="54">
     <source>世界樹の迷宮へ{f801}</source>
-    <target>世界樹の迷宮へ{f801}</target>
+    <target>世界树迷宫{f801}</target>
   </entry>
   <entry id="55">
     <source>欠番{f801}</source>
@@ -53,27 +53,27 @@
   </entry>
   <entry id="57">
     <source>グングニルの真実{f801}</source>
-    <target>グングニルの真実{f801}</target>
+    <target>冈格尼尔的真相{f801}</target>
   </entry>
   <entry id="58">
     <source>過去との邂逅{f801}</source>
-    <target>過去との邂逅{f801}</target>
+    <target>过去的邂逅{f801}</target>
   </entry>
   <entry id="59">
     <source>異変の兆候{f801}</source>
-    <target>異変の兆候{f801}</target>
+    <target>异变之兆{f801}</target>
   </entry>
   <entry id="60">
     <source>少女の意思{f801}</source>
-    <target>少女の意思{f801}</target>
+    <target>少女的意志{f801}</target>
   </entry>
   <entry id="61">
     <source>仲間たちの絆{f801}</source>
-    <target>仲間たちの絆{f801}</target>
+    <target>与队友们的羁绊{f801}</target>
   </entry>
   <entry id="62">
     <source>エンディング{f801}</source>
-    <target>エンディング{f801}</target>
+    <target>结局{f801}</target>
   </entry>
   <entry id="100">
     <source>BGM00{f801}</source>
@@ -93,15 +93,15 @@
   </entry>
   <entry id="201">
     <source>アリアンナ{f801}</source>
-    <target>アリアンナ{f801}</target>
+    <target>阿莉安娜{f801}</target>
   </entry>
   <entry id="202">
     <source>フラヴィオ{f801}</source>
-    <target>フラヴィオ{f801}</target>
+    <target>弗拉维奥{f801}</target>
   </entry>
   <entry id="203">
     <source>ベルトラン{f801}</source>
-    <target>ベルトラン{f801}</target>
+    <target>贝鲁多兰{f801}</target>
   </entry>
   <entry id="204">
     <source>クロエ{f801}</source>
@@ -157,7 +157,7 @@
   </entry>
   <entry id="217">
     <source>オーバーロード{f801}</source>
-    <target>オーバーロード{f801}</target>
+    <target>游戏结束{f801}</target>
   </entry>
   <entry id="218">
     <source>黒の護り手{f801}</source>
